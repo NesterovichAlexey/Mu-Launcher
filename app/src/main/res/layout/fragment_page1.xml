@@ -1,0 +1,33 @@
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ru.yandex.alexey.mylauncher.pages.Page1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:text="@string/selected_column_count"/>
+
+    <RadioButton
+        android:id="@+id/btn_standard_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="30sp"
+        android:checked="true"
+        android:gravity="center_vertical"
+        android:text="@string/standard_size" />
+
+    <RadioButton
+        android:id="@+id/btn_big_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="30sp"
+        android:gravity="center_vertical"
+        android:text="@string/big_size" />
+</RadioGroup>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="column_count_standard_size">6</integer>
+    <integer name="column_count_big_size">7</integer>
+</resources>

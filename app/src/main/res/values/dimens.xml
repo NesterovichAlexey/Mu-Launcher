@@ -1,0 +1,5 @@
+<resources>
+    <integer name="column_count_standard_size">4</integer>
+    <integer name="column_count_big_size">5</integer>
+    <integer name="step_count">3</integer>
+</resources>

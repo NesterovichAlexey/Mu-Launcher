@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Launcher</string>
+    <string name="next">Next</string>
+    <string name="standard_size">4:6</string>
+    <string name="big_size">5:7</string>
+    <string name="welcome">Welcome!</string>
+    <string name="light_them">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="selected_column_count">Selected column count</string>
+    <string name="selected_theme">Selected theme</string>
+    <string name="popular_header">Popular</string>
+    <string name="new_header">New</string>
+    <string name="all_header">All applications</string>
+    <string name="selected_language">Selected language</string>
+</resources>
